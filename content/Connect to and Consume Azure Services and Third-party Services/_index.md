@@ -6,4 +6,24 @@ weight= 6
 +++
 
 
-Hey some content will go here
+This is the sixth part of the exam it is the 20 - 25 % of the final mark. It consits of the following points:
+
+1. Logic apps
+    + Create a logic app
+    + Create a custom conector for logic app
+    + Create a customn template for logic apps
+2. Search sevices
+    + Create an Azure search index
+    + Import searchable data
+    + Query the azure search index
+3. API Gateways
+    + Create APIM instance
+    + Configure authentication for APIs
+    + Define policies for APIs
+4. Event
+    + Azure Event Grid
+    + Azure Notifications Hubs
+    + Azure Event Hubs
+5. Messages
+    + Azure Service Bus
+    + Azure queue storage queues
