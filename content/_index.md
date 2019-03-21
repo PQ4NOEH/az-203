@@ -12,6 +12,7 @@ The exam can be placed at your own home from monday to saturday from 6:45 am to 
 
 ## Links
 + [Guidance](https://www.isaaclevin.com/post/az-203-study-guide/)
++ [Azure free tier](https://azure.microsoft.com/en-us/free/?ref=portal)
 
 
 ## Exam summary

@@ -6,24 +6,35 @@ weight= 6
 +++
 
 
+## Introduction
+
 This is the sixth part of the exam it is the 20 - 25 % of the final mark. It consits of the following points:
 
 1. Logic apps
-    + Create a logic app
-    + Create a custom conector for logic app
-    + Create a customn template for logic apps
 2. Search sevices
-    + Create an Azure search index
-    + Import searchable data
-    + Query the azure search index
 3. API Gateways
-    + Create APIM instance
-    + Configure authentication for APIs
-    + Define policies for APIs
 4. Event
-    + Azure Event Grid
-    + Azure Notifications Hubs
-    + Azure Event Hubs
 5. Messages
-    + Azure Service Bus
-    + Azure queue storage queues
+
+
+## General concepts
+
+[lesson](https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/2-choose-whether-to-use-message-queues-or-events)
+
+**Message**
+
+
+**Event**
+Broadcating scenarios. sender are known as publisher and receiver as subscribers.
+Events have the following characteristics:
+
+1. Indicates something had happened.
+2. Event might be listen by none or multiple subscriptors.
+3. Fan out.
+4. Publisher have no expectation about further action or subscribers.
+5. Some events are discrete units and unrelated to other events.
+6. Some events are partt of a related and ordered series.
+
+**Message vs events**
+use messages when your application must ensure that the them are processed if not use events.
+

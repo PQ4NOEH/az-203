@@ -61,11 +61,32 @@ Products are how APIs area surfaced by developers they one or more APIs, and are
 
 **Groups**
 Are used to managed visibility of products to developers
-#!Me quedo aqui en los tipos de grupos!
+Azure has three fixed predifined groups:
++ Adminitrators. Azure subscription administrators.
++ Developers. Authenticated developer portal. The customers. They are granted to access to the developer portal and build applications that call the API.
++ Guests. Unauthenticated developer portal users. They can be granted certain read-.only access, such as the ability to view the APIs but not call them.
+
+In addition adminitrators can create custom groups.
+
 
 **Developers**
+They can be created or invited by admin or can sign up from the developer portal
+
++ [How to create or invite developers](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-create-or-invite-developers).
++ [How to associate groups with developers](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-create-groups#associate-group-developer).
 
 **Policies**
+Allow to change the behaviour of the API through configuration. A policy is acollection of statements that area executed sequentally on every request or response.
+Some examples are:
++ Format conversion (from xml to json)
++ Rate limit
++ Throttling
+
++ [Complete list of policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-policy-reference)
++ [Using and configuring policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
++ [Advance configuration](https://docs.microsoft.com/en-us/azure/api-management/transform-api)
+
+**Developer portal**
 
 
 ## How to create APIs
