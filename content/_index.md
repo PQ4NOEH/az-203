@@ -122,3 +122,8 @@ The exam can be placed at your own home from monday to saturday from 6:45 am to 
 + Develop message-based solutions
   + Implement solutions that use Azure Service Bus
   + Implement solutions that use Azure Queue Storage queues
+
+## Pending interesting papers
+
++ [MS architcture guide](https://docs.microsoft.com/en-us/azure/architecture/guide/) I have downloaded the book
++ 

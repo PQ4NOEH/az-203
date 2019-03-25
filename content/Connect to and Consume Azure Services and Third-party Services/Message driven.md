@@ -5,6 +5,10 @@ weight = 5
 pre ="<i class='fas fa-envelope-open'></i> "
 +++ 
 
+## Pending
+
++ [queue storage vs service bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
+
 ## Introduction
 
 Use a message driven solution when sender and reciever are coupled. The sender expects the message to be processed in a given way.
