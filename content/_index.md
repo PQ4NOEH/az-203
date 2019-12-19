@@ -11,8 +11,13 @@ This site provides guidance in studing for the microsoft exam AZ-203
 The exam can be placed at your own home from monday to saturday from 6:45 am to 12:00 local hour amazing.
 
 ## Links
++ [Exam skills outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC)
++ [microsoft official page](https://docs.microsoft.com/en-us/learn/certifications/exams/az-203)
 + [Guidance](https://www.isaaclevin.com/post/az-203-study-guide/)
 + [Azure free tier](https://azure.microsoft.com/en-us/free/?ref=portal)
++ [pluralsight](https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-203)
++ [ravikirans](http://ravikirans/az-203-study-guide/)
+
 
 
 ## Exam summary
